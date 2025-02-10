@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
