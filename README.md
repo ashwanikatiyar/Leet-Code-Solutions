@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Array
 |  |
