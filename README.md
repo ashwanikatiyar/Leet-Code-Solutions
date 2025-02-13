@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Stack
@@ -51,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
