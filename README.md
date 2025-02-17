@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2058-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2058-concatenation-of-array](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2058-concatenation-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
