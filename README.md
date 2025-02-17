@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/3447-clear-digits) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1160-letter-tile-possibilities) |
 ## Design
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
