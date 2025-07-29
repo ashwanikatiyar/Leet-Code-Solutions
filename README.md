@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2058-concatenation-of-array](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2058-concatenation-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Binary Search
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
