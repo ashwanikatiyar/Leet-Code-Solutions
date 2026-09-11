@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
