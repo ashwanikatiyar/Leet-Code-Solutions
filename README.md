@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0539-minimum-time-difference](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashwanikatiyar/Leet-Code-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
